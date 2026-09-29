@@ -117,5 +117,4 @@ def binary_search(sorted_list, target):
         else:
             right = mid - 1
 
-    # Если цикл закончился, элемент не найден
     return -1
